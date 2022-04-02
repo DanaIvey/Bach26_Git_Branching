@@ -9,5 +9,7 @@ public class TC_003 {
         // another line
 
         // another new line
+
+        // new new line
     }
 }
