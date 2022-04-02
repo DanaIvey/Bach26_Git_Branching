@@ -7,5 +7,7 @@ public class TC_003 {
         // today is a good day
 
         // another line
+
+        // another new line
     }
 }
